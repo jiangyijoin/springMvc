@@ -1,0 +1,32 @@
+.value_red{
+	color:#ff0000;
+}
+.value_green{
+	color:#00ce10;
+}
+.value_blue{
+	color:#00a3ff;
+}
+.indicator_view td{
+	padding:10px 15px 0px;
+	border-bottom:1px dotted #aaa;
+}
+.indicator_view td a{
+	background-color:#fafafa;
+	padding:4px 10px;
+	border:1px solid #eee;
+	border-radius:16px;
+	margin:0 5px 10px;
+	display:inline-block;
+	word-break:keep-all;
+	white-space:nowrap;
+	font-size:12px;
+}
+.indicator_view td a:hover{
+	background-color:#eee;
+	border:1px solid #ddd;
+	color:#333;
+}
+.indicator_view td a font{
+	font-size:14px;
+}
