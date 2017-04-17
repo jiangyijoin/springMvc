@@ -3,7 +3,7 @@
 <head>
 <%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
 <meta charset="utf-8">
-<title>新指标概览</title>
+<title>测试</title>
 <link href="style.css" rel="stylesheet" type="text/css"/>
 <link href="common-all.css" rel="stylesheet" type="text/css"/>
 <script src="jquery.min.js" type="text/javascript"></script>
